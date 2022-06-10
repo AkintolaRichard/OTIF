@@ -1,0 +1,68 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.first-section {
+    background: linear-gradient(180deg, #4C38EE 0%, #543DFF 100%);
+}
+
+.second-section {
+    background: linear-gradient(122.29deg, #4C38EE 40.13%, rgba(76, 56, 238, 0.3) 133.77%);
+}
+
+.first-content {
+
+}
+
+.first-content h5 {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.first-content h1 {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+}
+
+.first-content p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.btn-custom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 137px;
+    height: 50px;
+    left: 103px;
+    top: 476px;
+    background: #FFFFFF;
+    border-radius: 5px;    
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    /* line-height: 17px; */
+    color: #291EF6;
+}
+
+
+
