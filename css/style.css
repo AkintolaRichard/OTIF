@@ -26,6 +26,7 @@
     font-size: 14px;
     line-height: 17px;
     color: #FFFFFF;
+    margin-bottom: 30px;
 }
 
 .first-content h1 {
@@ -64,5 +65,100 @@
     color: #291EF6;
 }
 
+.second-content {
+    background: #FFFFFF;
+    margin-bottom: 100px;
+}
 
+.second-content h5 {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    color: #4C38EE;
+}
+
+.second-content p {
+/*     width: 535px;
+    height: 176px;
+    left: 0px;
+    top: 97px;
+     */
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #121212;
+}
+
+.contact {
+    background: #4C38EE;
+}
+
+.third-part {
+    margin: 10px;
+}
+
+.thetext {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.thepage {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+footer {
+background: #F9FAFD;
+color: #121212;
+position: fixed;
+}
+
+footer .bottom-brand {
+    margin-bottom: 30px;
+}
+
+footer ul {
+margin: 0;
+padding: 0;
+}
+
+footer ul li {
+list-style: none;
+font-family: 'Product Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #121212;
+flex: none;
+order: 0;
+flex-grow: 0;
+text-align: left;
+}
+
+footer ul li:first-child {
+font-weight: 700;
+color: #0000FF;
+margin-bottom: 20px;
+}
+
+.bottom-button {
+    background: #3722D3;
+    border-radius: 5px;
+    border: 0;
+    color: #FFFFFF;
+
+}
 
